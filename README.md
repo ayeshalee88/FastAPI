@@ -124,13 +124,6 @@ You can test all Todo endpoints directly from the browser.
 
 ---
 
-## 🚀 Future Improvements
-
-* 🔐 User authentication (JWT)
-* 🗄️ Database integration (PostgreSQL / SQLite)
-* 🧠 Validation & error handling
-* 🎨 Frontend with React / Next.js
-* ☁️ Deployment on Railway / Render
 
 ---
 
@@ -148,3 +141,4 @@ This project is for **educational purposes**. You are free to use and modify it.
 ---
 
 ⭐ If this tutorial helped you, consider giving the repo a star!
+
